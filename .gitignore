@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/
+results/
+temp/
+*.log
+longmemeval_*.json
